@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/switch-light/static/css/main.5868df24.css",
+    "main.js": "/switch-light/static/js/main.536f66ef.js",
+    "static/js/787.73ebe3a1.chunk.js": "/switch-light/static/js/787.73ebe3a1.chunk.js",
+    "static/media/on.png": "/switch-light/static/media/on.455b0623165defaa0823.png",
+    "static/media/off.png": "/switch-light/static/media/off.58ea3ae4968eab5cd03b.png",
+    "index.html": "/switch-light/index.html",
+    "main.5868df24.css.map": "/switch-light/static/css/main.5868df24.css.map",
+    "main.536f66ef.js.map": "/switch-light/static/js/main.536f66ef.js.map",
+    "787.73ebe3a1.chunk.js.map": "/switch-light/static/js/787.73ebe3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5868df24.css",
+    "static/js/main.536f66ef.js"
+  ]
+}
